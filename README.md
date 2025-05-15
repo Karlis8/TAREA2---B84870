@@ -1,4 +1,4 @@
-# TAREA2---B84870
+# TAREA2-B84870
 ## Descripción del programa
 
 Este programa compara el rendimiento de dos algoritmos de ordenamiento clásicos: **Bubble Sort** y **Selection Sort**. 
