@@ -14,6 +14,7 @@ Usá `gcc` para compilar el archivo C. Por ejemplo:
 ```bash
 gcc -Wall T2_B84870.c -o ordenamiento
 ./ordenamiento
+```
 
 ## Comparación de rendimiento: Bubble Sort vs Selection Sort
 
