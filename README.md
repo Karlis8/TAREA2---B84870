@@ -9,15 +9,13 @@ Se genera un arreglo de números enteros aleatorios, se ordena con ambos algorit
 
 ## Cómo compilar y ejecutar desde la terminal
 
-### 1. Compilar el programa
+Usá `gcc` para compilar el archivo C. Por ejemplo:
 
-Usá `gcc` para compilar el archivo C. 
+```bash
+gcc -Wall T2_B84870.c -o ordenamiento
+./ordenamiento
 
-```ejemplo bash
-<gcc T2_B84870.c -o ordenamiento>
-
----
-###  Comparación de rendimiento: Bubble Sort vs Selection Sort
+## Comparación de rendimiento: Bubble Sort vs Selection Sort
 
 | Tamaño del arreglo | Tiempo Bubble Sort (s) | Tiempo Selection Sort (s) | Algoritmo más rápido               |
 |--------------------|-------------------------|-----------------------------|------------------------------------|
