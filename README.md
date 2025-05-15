@@ -12,15 +12,15 @@ Se genera un arreglo de números enteros aleatorios, se ordena con ambos algorit
 Usá `gcc` para compilar el archivo C. Por ejemplo:
 
 ```bash
-gcc -Wall T2_B84870.c -o ordenamiento
-./ordenamiento
+compilar: <gcc -Wall T2_B84870.c -o ordenamiento>
+ejecjutar: <./ordenamiento/>
 ```
 
 ---
 
 ## Comparación de rendimiento: Bubble Sort vs Selection Sort
 
-| Tamaño del arreglo | Tiempo Bubble Sort (s) | Tiempo Selection Sort (s) | Algoritmo más rápido               |
+| Tamaño del arreglo | Tiempo Bubble Sort (s)  | Tiempo Selection Sort (s)   | Algoritmo más rápido               |
 |--------------------|-------------------------|-----------------------------|------------------------------------|
 | 10                 | 0.000002                | 0.000001                    | Selection Sort                     |
 | 100                | 0.000011                | 0.000009                    | Selection Sort                     |
