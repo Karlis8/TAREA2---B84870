@@ -16,6 +16,8 @@ gcc -Wall T2_B84870.c -o ordenamiento
 ./ordenamiento
 ```
 
+---
+
 ## Comparación de rendimiento: Bubble Sort vs Selection Sort
 
 | Tamaño del arreglo | Tiempo Bubble Sort (s) | Tiempo Selection Sort (s) | Algoritmo más rápido               |
